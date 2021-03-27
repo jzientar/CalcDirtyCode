@@ -1,0 +1,29 @@
+****************1*****************
+•	15,16,19,20,23,24,27,28
+•	Código duplicado: existe código idéntico o muy similar en más de una ubicación.
+•	Las piezas de código idéntico se reemplazaron dentro de la condición “while” para evitar volverlas a escribir frecuentemente 
+•	17-18
+
+****************2*****************
+•	12 hasta 31
+•	Método grande: un método, función o procedimiento que ha crecido hasta hacerse demasiado grande.
+•	Para evitar que todo este suelto, se definió un método que realice las acciones que desea para posteriormente solo llamarla
+•	2 hasta 10 
+
+****************3*****************
+•	3, 12 hacia 30
+•	Identificadores excesivamente cortos: el nombre de una variable debe reflejar su función.
+•	Se cambiaron los nombres a unos mas elegibles y de acuerdo a su función para ser mas especifico 
+•	2,13,17,18
+
+****************4*****************
+•	14 hacia 29
+•	Complejidad artificiosa: Uso forzado de patrones de diseño demasiado complicados, donde uno más simple sería suficiente.
+•	Se definió dentro de un método todo lo que debería hacer para evitar el constante llamado 
+•	3 hacia 10
+
+****************5*****************
+•	15 hacia 29
+•	Excesivo uso de literales: estos deben codificarse como constantes con nombre, para mejorar la legibilidad y para evitar errores de programación. 
+•	Se definió en un método main para almacenar de forma ordenada
+•	15 hacia 19
